@@ -12,7 +12,7 @@ This repo is the official implementation of *Capture More, Synthesize Better: Vi
 :dog: 
 
 
-![](https://github.com/FR6024/CSVFI/main/GIFS/libby.gif)
+![](https://github.com/FR6024/CSVFI/blob/main/GIFS/libby.gif?raw=true)
 
 :car:
 
