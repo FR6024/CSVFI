@@ -7,16 +7,16 @@ This repo is the official implementation of *Capture More, Synthesize Better: Vi
 
 :dog2:
 
-![  ](https://github.com/FR6024/CSVFI/main/GIFS/dog.gif)
+![  ](https://raw.githubusercontent.com/FR6024/CSVFI/main/GIFS/dog.gif)
 
 :dog: 
 
 
-![](https://github.com/FR6024/CSVFI/blob/main/GIFS/libby.gif?raw=true)
+![](https://raw.githubusercontent.com/FR6024/CSVFI/main/GIFS/libby.gif)
 
 :car:
 
-![](https://github.com/FR6024/CSVFI/main/GIFS/draft.gif)
+![](https://raw.githubusercontent.com/FR6024/CSVFI/main/GIFS/draft.gif)
 
 ## Dependencies
 Create conda env:
@@ -59,6 +59,14 @@ Please consider citing this paper if you find the code and data useful in your r
   author={Zhou, Baojun and Huang, Xinpeng and Li, Gongyang and Yang, Chao and Shen, Liquan and An, Ping},
   journal={IEEE Transactions on Multimedia},
   year={2025},
+  publisher={IEEE}
+}
+
+@article{zhou2026capture,
+  title={Capture More, Synthesize Better: Video Frame Interpolation with Larger Receptive Field and Structural Priors},
+  author={Zhou, Baojun and Huang, Xinpeng and Chen, Jieyu and Kaaniche, Mounir and An, Ping},
+  journal={IEEE IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2026},
   publisher={IEEE}
 }
 
