@@ -2,6 +2,21 @@
 
 This repo is the official implementation of *Capture More, Synthesize Better: Video Frame Interpolation with Larger Receptive Field and Structural Priors*, IEEE TCSVT 2026.
 
+## Toy Demo
+:heart: **If the playback is lagging, please wait for a moment to buffer, or you can directly watch the original file in the *GIF* folder.**
+
+:dog2:
+
+![  ](https://github.com/FR6024/CSVFI/blob/main/GIFS/dog.gif)
+
+:dog: 
+
+
+![](https://github.com/FR6024/CSVFI/blob/main/GIFS/libby.gif)
+
+:car:
+
+![](https://github.com/FR6024/CSVFI/blob/main/GIFS/draft.gif)
 
 ## Dependencies
 Create conda env:
