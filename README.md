@@ -7,16 +7,16 @@ This repo is the official implementation of *Capture More, Synthesize Better: Vi
 
 :dog2:
 
-![  ](https://github.com/FR6024/CSVFI/blob/main/GIFS/dog.gif)
+![  ](https://github.com/FR6024/CSVFI/main/GIFS/dog.gif)
 
 :dog: 
 
 
-![](https://github.com/FR6024/CSVFI/blob/main/GIFS/libby.gif)
+![](https://github.com/FR6024/CSVFI/main/GIFS/libby.gif)
 
 :car:
 
-![](https://github.com/FR6024/CSVFI/blob/main/GIFS/draft.gif)
+![](https://github.com/FR6024/CSVFI/main/GIFS/draft.gif)
 
 ## Dependencies
 Create conda env:
