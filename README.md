@@ -39,7 +39,9 @@ CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node=2 --master_port=6027 main-DDP
 ```
 
 ## Test
-After training, you can evaluate the model with following command:
+After training, you can evaluate the model with following command.
+
+Pretrained weight can be downloaded by [Google_drive](https://drive.google.com/drive/folders/1nFoutVVnQeYohekTPkgUTMDH1_yTu4j9?usp=sharing).
 
 ```
 # CSVFI-T
