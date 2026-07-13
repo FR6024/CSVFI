@@ -21,8 +21,7 @@ This repo is the official implementation of *Capture More, Synthesize Better: Vi
 ## Dependencies
 Create conda env:
 ```
-conda env create -f environment.yml # win10 version
-conda env create -f env.yml # ubuntu version
+conda env create -f environment.yml
 ```
 
 
